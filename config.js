@@ -1,9 +1,9 @@
 {
     "homeRefreshIntervalMs": 1800000,
-    "baseStorageUrl": "https://storage.googleapis.com/shadow-paws.firebasestorage.app/",
-    "providersUrl": "https://storage.googleapis.com/shadow-paws.firebasestorage.app/providers.json",
-    "versionsUrl": "https://storage.googleapis.com/shadow-paws.firebasestorage.app/versions.json",
-    "catesUrl": "https://storage.googleapis.com/shadow-paws.firebasestorage.app/cates.json",
+    "baseStorageUrl": "https://storage.googleapis.com/shadow-paws.appspot.com/",
+    "providersUrl": "https://storage.googleapis.com/shadow-paws.appspot.com/providers.json",
+    "versionsUrl": "https://storage.googleapis.com/shadow-paws.appspot.com/versions.json",
+    "catesUrl": "https://storage.googleapis.com/shadow-paws.appspot.com/cates.json",
     "tmdbApiKey": "a955a07ac16dfa9a1977c6e03c34b875",
     "tmdbBaseUrl": "https://api.themoviedb.org/3/",
     "tmdbImageBaseUrl": "https://image.tmdb.org/t/p/w500",
