@@ -6,7 +6,7 @@
     "children": [
       { "id": "m1", "slug": "trending.movie", "name": { "en": "Now Trending", "zh": "正在热门" } },
       { "id": "m2", "slug": "latest.movie.china", "name": { "en": "Chinese Movies", "zh": "华语电影" } },
-      { "id": "m3", "slug": "latest.movie.us", "name": { "en": "Hollywood", "zh": "美国电影" } }，
+      { "id": "m3", "slug": "latest.movie.us", "name": { "en": "Hollywood", "zh": "美国电影" } },
       { "id": "m4", "slug": "latest.movie.jp-kr", "name": { "en": "Japanese Korean Movies", "zh": "日韩电影" } }，
       { "id": "m5", "slug": "latest.movie.hk", "name": { "en": "Hong Kong Movies", "zh": "香港电影" } }，
       { "id": "m6", "slug": "latest.movie.other", "name": { "en": "Other Movies", "zh": "其他电影" } }
