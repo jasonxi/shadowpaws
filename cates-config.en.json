@@ -1,12 +1,25 @@
 [
   {
+    "id": "home",
+    "slug": "home",
+    "name": { "en": "Home", "zh": "首页" },
+    "children": [
+      { "id": "home_trending", "slug": "trending", "name": { "en": "Trending Now", "zh": "正在热门" } },
+      { "id": "home_movies", "slug": "latest.movie", "name": { "en": "Latest Movies", "zh": "最新电影" } },
+      { "id": "home_tv", "slug": "latest.tv-show", "name": { "en": "Latest TV Shows", "zh": "最新电视剧" } },
+      { "id": "home_anim", "slug": "latest.animation", "name": { "en": "Latest Animations", "zh": "最新动漫" } },
+      { "id": "home_variety", "slug": "latest.variety", "name": { "en": "Latest Variety Shows", "zh": "最新综艺" } }
+    ]
+  },
+  {
     "id": "movies",
     "slug": "latest.movie",
     "name": { "en": "Movies", "zh": "电影" },
     "children": [
       { "id": "m1", "slug": "trending.movie", "name": { "en": "Now Trending", "zh": "正在热门" } },
-      { "id": "m2", "slug": "latest.movie.china", "name": { "en": "Chinese Movies", "zh": "华语电影" } },
-      { "id": "m3", "slug": "latest.movie.us", "name": { "en": "Hollywood", "zh": "美国电影" } }
+      { "id": "m3", "slug": "latest.movie.us", "name": { "en": "Hollywood", "zh": "美国电影" } },
+      { "id": "m4", "slug": "latest.movie.jp-kr", "name": { "en": "Japanese Korean Movies", "zh": "日韩电影" } },
+      { "id": "m6", "slug": "latest.movie.other", "name": { "en": "Other Movies", "zh": "其他电影" } }
     ]
   },
   {
@@ -15,7 +28,34 @@
     "name": { "en": "TV Shows", "zh": "电视剧" },
     "children": [
       { "id": "t1", "slug": "trending.tv-show", "name": { "en": "Top Picks", "zh": "精选剧集" } },
-      { "id": "t2", "slug": "latest.tv-show.china", "name": { "en": "Mainland Drama", "zh": "国产剧" } }
+      { "id": "t3", "slug": "latest.tv-show.us", "name": { "en": "US Drama", "zh": "美剧" } },
+      { "id": "t4", "slug": "latest.tv-show.jp-kr", "name": { "en": "Japanese Korean Drama", "zh": "日韩剧" } },
+      { "id": "t2", "slug": "latest.tv-show.china", "name": { "en": "Mainland Drama", "zh": "国产剧" } },
+      { "id": "t6", "slug": "latest.tv-show.other", "name": { "en": "Other Drama", "zh": "其他剧集" } }
+    ]
+  },
+  {
+    "id": "animations",
+    "slug": "latest.animation",
+    "name": { "en": "Animations", "zh": "动漫" },
+    "children": [
+      { "id": "a1", "slug": "trending.animation", "name": { "en": "Top Picks", "zh": "精选动漫" } },
+      { "id": "a4", "slug": "latest.animation.us", "name": { "en": "Japanese Animations", "zh": "美国动漫" } },
+      { "id": "a3", "slug": "latest.animation.japan", "name": { "en": "Japanese Animations", "zh": "日本动漫" } },
+      { "id": "a2", "slug": "latest.animation.china", "name": { "en": "Chinese Animations", "zh": "华语动漫" } },
+      { "id": "a5", "slug": "latest.animation.other", "name": { "en": "Other Animations", "zh": "其他动漫" } },
+    ]
+  },
+  {
+    "id": "variety",
+    "slug": "latest.variety",
+    "name": { "en": "Variety Shows", "zh": "综艺" },
+    "children": [
+      { "id": "v1", "slug": "trending.variety", "name": { "en": "Top Picks", "zh": "热门综艺" } },
+      { "id": "v4", "slug": "latest.variety.us", "name": { "en": "Japanese Variety", "zh": "美国综艺" } },
+      { "id": "v3", "slug": "latest.variety.jp-kr", "name": { "en": "Japanese Variety", "zh": "日韩综艺" } },
+      { "id": "v2", "slug": "latest.variety.china", "name": { "en": "Chinese Variety", "zh": "大陆综艺" } },
+      { "id": "v5", "slug": "latest.variety.other", "name": { "en": "Other Variety", "zh": "其他综艺" } }
     ]
   }
 ]
