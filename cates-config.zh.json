@@ -1,5 +1,17 @@
 [
   {
+    "id": "home",
+    "slug": "home",
+    "name": { "en": "Home", "zh": "首页" },
+    "children": [
+      { "id": "home_trending", "slug": "trending", "name": { "en": "Trending Now", "zh": "正在热门" } },
+      { "id": "home_movies", "slug": "latest.movie", "name": { "en": "Latest Movies", "zh": "最新电影" } },
+      { "id": "home_tv", "slug": "latest.tv-show", "name": { "en": "Latest TV Shows", "zh": "最新电视剧" } },
+      { "id": "home_anim", "slug": "latest.animation", "name": { "en": "Latest Animations", "zh": "最新动漫" } },
+      { "id": "home_variety", "slug": "latest.variety", "name": { "en": "Latest Variety Shows", "zh": "最新综艺" } }
+    ]
+  },
+  {
     "id": "movies",
     "slug": "latest.movie",
     "name": { "en": "Movies", "zh": "电影" },
