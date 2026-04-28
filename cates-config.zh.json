@@ -57,7 +57,7 @@
     "children": [
       { "id": "v1", "slug": "trending.variety", "name": { "en": "Top Picks", "zh": "热门综艺" } },
       { "id": "v2", "slug": "latest.variety.china", "name": { "en": "Chinese Variety", "zh": "大陆综艺" } },
-      { "id": "v3", "slug": "latest.variety.japan", "name": { "en": "Japanese Variety", "zh": "日本综艺" } },
+      { "id": "v3", "slug": "latest.variety.jp-kr", "name": { "en": "Japanese Variety", "zh": "日韩综艺" } },
       { "id": "v4", "slug": "latest.variety.us", "name": { "en": "Japanese Variety", "zh": "美国综艺" } },
       { "id": "v5", "slug": "latest.variety.other", "name": { "en": "Other Variety", "zh": "其他综艺" } }
     ]
