@@ -49,5 +49,17 @@
       { "id": "a5", "slug": "latest.animation.other", "name": { "en": "Other Animations", "zh": "其他动漫" } },
       { "id": "a6", "slug": "latest.animated-comic", "name": { "en": "Animated Comics", "zh": "动态漫画" } }
     ]
-  }  
+  },
+  {
+    "id": "variety",
+    "slug": "latest.variety",
+    "name": { "en": "Variety Shows", "zh": "综艺" },
+    "children": [
+      { "id": "v1", "slug": "trending.variety", "name": { "en": "Top Picks", "zh": "热门综艺" } },
+      { "id": "v2", "slug": "latest.variety.china", "name": { "en": "Chinese Variety", "zh": "大陆综艺" } },
+      { "id": "v3", "slug": "latest.variety.japan", "name": { "en": "Japanese Variety", "zh": "日本综艺" } },
+      { "id": "v4", "slug": "latest.variety.us", "name": { "en": "Japanese Variety", "zh": "美国综艺" } },
+      { "id": "v5", "slug": "latest.variety.other", "name": { "en": "Other Variety", "zh": "其他综艺" } }
+    ]
+  }
 ]
