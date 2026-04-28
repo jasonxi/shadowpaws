@@ -24,7 +24,11 @@
     "name": { "en": "Animations", "zh": "动漫" },
     "children": [
       { "id": "a1", "slug": "trending.animation", "name": { "en": "Top Picks", "zh": "精选动漫" } },
-      { "id": "a2", "slug": "latest.animation.china", "name": { "en": "Chinese Animations", "zh": "华语动漫" } }
+      { "id": "a2", "slug": "latest.animation.china", "name": { "en": "Chinese Animations", "zh": "华语动漫" } },
+      { "id": "a3", "slug": "latest.animation.japan", "name": { "en": "Japanese Animations", "zh": "日本动漫" } },
+      { "id": "a4", "slug": "latest.animation.us", "name": { "en": "Japanese Animations", "zh": "美国动漫" } },
+      { "id": "a5", "slug": "latest.animation.other", "name": { "en": "Other Animations", "zh": "其他动漫" } },
+      { "id": "a6", "slug": "latest.animated-comic", "name": { "en": "Animated Comics", "zh": "动态漫画" } },
     ]
   }  
 ]
