@@ -32,7 +32,8 @@
       { "id": "t1", "slug": "trending.tv-show", "name": { "en": "Top Picks", "zh": "精选剧集" } },
       { "id": "t2", "slug": "latest.tv-show.china", "name": { "en": "Mainland Drama", "zh": "国产剧" } },
       { "id": "t3", "slug": "latest.tv-show.us", "name": { "en": "US Drama", "zh": "美剧" } },
-      { "id": "t4", "slug": "latest.tv-show.jp-kr", "name": { "en": "Japanese Korean Drama", "zh": "日韩剧" } },
+      { "id": "t4", "slug": "latest.tv-show.kr", "name": { "en": "Korean Drama", "zh": "韩剧" } },
+      { "id": "t7", "slug": "latest.tv-show.jp", "name": { "en": "Japanese Drama", "zh": "日剧" } },
       { "id": "t5", "slug": "latest.tv-show.hk", "name": { "en": "Hong Kong Drama", "zh": "港剧" } },
       { "id": "t6", "slug": "latest.tv-show.other", "name": { "en": "Other Drama", "zh": "其他剧集" } }
     ]
