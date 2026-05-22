@@ -8,7 +8,7 @@
     "tmdbApiKey": "a955a07ac16dfa9a1977c6e03c34b875",
     "tmdbBaseUrl": "https://api.themoviedb.org/3/",
     "tmdbImageBaseUrl": "https://image.tmdb.org/t/p/w500",
-    "ticketApiBaseUrl": "http://192.168.1.27:8088/",
+    "ticketApiBaseUrl": "http://192.168.1.35:8088/",
     "ticketApiKey": "default-insecure-key",
     "apiOrigin": "app://shadow-paws"
 }
